@@ -4,4 +4,4 @@ CREATE TABLE Names (
 );
 
 INSERT INTO Names 
-VALUES (1, '青木'),(2, '山田'), (3, '伊藤');
+VALUES (1, '青木'),(2, '山田'), (3, '伊藤'),(4, '佐藤'), (5, '田中');
